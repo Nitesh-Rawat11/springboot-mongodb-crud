@@ -13,6 +13,7 @@
 	<groupId>com.springboot.javaguides</groupId>
 	<artifactId>springboot-mongodb-crud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<finalName>crud-app</finalName>
 	<name>springboot-thymeleaf-web-app</name>
 	<description>Demo project for Spring Boot + Mongo DB CRUD Example
 	</description>
@@ -99,6 +100,7 @@
 	</dependencies>
 
 	<build>
+	<finalName>crudApp</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
