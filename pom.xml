@@ -13,11 +13,7 @@
 	<groupId>com.springboot.javaguides</groupId>
 	<artifactId>springboot-mongodb-crud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-<<<<<<< HEAD
-	<finalName>crud-app</finalName>
-=======
 	<packaging>war</packaging>
->>>>>>> c2a722715ae5b88967b000123d05a195bf72d0f9
 	<name>springboot-thymeleaf-web-app</name>
 	<description>Demo project for Spring Boot + Mongo DB CRUD Example
 	</description>
@@ -104,11 +100,7 @@
 	</dependencies>
 
 	<build>
-<<<<<<< HEAD
-	<finalName>crudApp</finalName>
-=======
 		<finalName>crudApp</finalName>
->>>>>>> c2a722715ae5b88967b000123d05a195bf72d0f9
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
