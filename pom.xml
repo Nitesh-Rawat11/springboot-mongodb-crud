@@ -100,7 +100,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>crud-app</finalName>
+		<finalName>crudApp</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
